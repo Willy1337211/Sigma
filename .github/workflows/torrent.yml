@@ -5,11 +5,11 @@ on:
       - master
       
 env:
-  name: "Android Studio and SDK Tools"
+  name: "Hoss Boss"
   comment: "Android Studio for Windows"
-  url: "https://redirector.gvt1.com/edgedl/android/studio/install/4.1.2.0/android-studio-ide-201.7042882-windows.exe"
-  file_name: "android-studio-ide-201.7042882-windows.exe"
-  piece_size: 19 # Check the README.md for recommended piece size
+  url: "https://megaup.net/a5b3bdc7e8cae0f479c9547fbb4a5236?pt=vhS5OKCepsPWvBnVGpQQwqeWWgbxE8jwpkDDJG2GkRo%3D"
+  file_name: "Super Smash Bros. Ultimate [01006A800016E800][v1900544][US].nsp.rar"
+  piece_size: 21 # Check the README.md for recommended piece size
       
 jobs:
   create:
